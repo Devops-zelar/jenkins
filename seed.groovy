@@ -20,7 +20,7 @@ pipelineJob('frontend') {
           }
         }
       }
-      'scriptPath'("Jenkinsfile")
+      'scriptPath'('jenkinsfile')
       'lightweight'(true)
     }
   }
