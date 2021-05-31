@@ -66,6 +66,7 @@ pipelineJob('users') {
       'lightweight'(true)
     }
   }
+}
 
 
 
